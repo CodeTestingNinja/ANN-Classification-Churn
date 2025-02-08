@@ -2,8 +2,8 @@ pip==23.0.1
 setuptools
 wheel
 tensorflow-cpu==2.14.0
+numpy==1.23.5
 pandas
-numpy
 scikit-learn
 tensorboard
 matplotlib
